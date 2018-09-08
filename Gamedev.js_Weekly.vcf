@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION;TYPE=WORK:3.0
+FN;CHARSET=UTF-8:Andrzej Mazur
+N;CHARSET=UTF-8:Andrzej Mazur;;;;
+PROFILE:VCARD
+ADR;CHARSET=UTF-8:;;Stanów Zjednoczonych;Warsaw;;03-947;Poland
+EMAIL:contact@gamedevjsweekly.com
+ORG;CHARSET=UTF-8:Enclave Games
+URL:http://gamedevjsweekly.com
+END:VCARD
